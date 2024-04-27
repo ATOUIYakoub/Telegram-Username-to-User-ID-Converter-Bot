@@ -1,7 +1,5 @@
 # Telegram Username to User ID Converter Bot
 
-Brief description of your bot.
-
 ## Table of Contents
 
 - [Installation](#installation)
