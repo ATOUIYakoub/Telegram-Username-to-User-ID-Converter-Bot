@@ -12,7 +12,7 @@ To use the Telegram Username to User ID Converter Bot, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
     ```bash
-    git clone https://github.com/ATOUIYakoub/telegram-username-to-user-id-bot.git
+    git clone https://github.com/ATOUIYakoub/Telegram-Username-to-User-ID-Converter-Bot.git
     ```
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies.
     ```bash
