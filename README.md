@@ -24,7 +24,7 @@ To use the Telegram Username to User ID Converter Bot, follow these steps:
 3. **Replace Telegram Token**: Open the `boot.py` file and replace the `YOUR_TELEGRAM_TOKEN_HERE` placeholder with your own Telegram bot token. You can obtain a token by creating a new bot using [BotFather](https://core.telegram.org/bots#botfather).
 
     ```python
-    # config.py
+    # boot.py
 
     # Replace 'YOUR_TELEGRAM_TOKEN_HERE' with your own Telegram bot token
     TOKEN = 'YOUR_TELEGRAM_TOKEN_HERE'
